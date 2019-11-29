@@ -1,0 +1,11 @@
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\language_fundamentals\OOP\wizard_ninja_samurai\bin\Debug\netcoreapp2.2\wizard_ninja_samurai.deps.json
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\language_fundamentals\OOP\wizard_ninja_samurai\bin\Debug\netcoreapp2.2\wizard_ninja_samurai.runtimeconfig.json
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\language_fundamentals\OOP\wizard_ninja_samurai\bin\Debug\netcoreapp2.2\wizard_ninja_samurai.runtimeconfig.dev.json
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\language_fundamentals\OOP\wizard_ninja_samurai\bin\Debug\netcoreapp2.2\wizard_ninja_samurai.dll
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\language_fundamentals\OOP\wizard_ninja_samurai\bin\Debug\netcoreapp2.2\wizard_ninja_samurai.pdb
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\language_fundamentals\OOP\wizard_ninja_samurai\obj\Debug\netcoreapp2.2\wizard_ninja_samurai.csprojAssemblyReference.cache
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\language_fundamentals\OOP\wizard_ninja_samurai\obj\Debug\netcoreapp2.2\wizard_ninja_samurai.csproj.CoreCompileInputs.cache
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\language_fundamentals\OOP\wizard_ninja_samurai\obj\Debug\netcoreapp2.2\wizard_ninja_samurai.AssemblyInfoInputs.cache
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\language_fundamentals\OOP\wizard_ninja_samurai\obj\Debug\netcoreapp2.2\wizard_ninja_samurai.AssemblyInfo.cs
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\language_fundamentals\OOP\wizard_ninja_samurai\obj\Debug\netcoreapp2.2\wizard_ninja_samurai.dll
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\language_fundamentals\OOP\wizard_ninja_samurai\obj\Debug\netcoreapp2.2\wizard_ninja_samurai.pdb
